@@ -5,4 +5,9 @@
 layout: home
 ---
 
-Oh, hey there!
+# CASH IS THE BEST
+## He's so cool
+
+#### He's so cool
+
+<div style="color:red;">Oh, hey there!</div>

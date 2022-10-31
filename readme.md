@@ -1,5 +1,17 @@
-# Starter Website for Github Pages
-slides for presentation: https://docs.google.com/presentation/d/1XQk0PowKr5jEQ2xt8mX3AZXXXWsJWy42cn3Hl1Lo7UA/edit#slide=id.g1446063bce0_1_68
+# Website Boilerplate
+
+## DNS
+
+A Records
+```
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+```
+
+# Slides from presentation
+https://docs.google.com/presentation/d/1XQk0PowKr5jEQ2xt8mX3AZXXXWsJWy42cn3Hl1Lo7UA/edit#slide=id.g1446063bce0_1_68
 
 # Before you begin
 
